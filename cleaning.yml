@@ -1,0 +1,11 @@
+data cleaning:
+
+registration date: rok ma byc mniejszy niz 2024
+year: musi sie rownac temu rocznikowi podanemu wyzej
+power_kw: mniejszy niz 954 (Tyle ma koenigsegg jesko)
+power_ps: mniejszy niz 2000
+transmission_type: nadac wartosci numeryczne
+fuel_type: pozbyc sie wartosci numerycznych, ponumerowac alfanumeryczne
+fuel_consumption_l_100km: zostawic tylko te wartosci z l/100km
+fuel_consumption_g_km: zostawic tylko te wartosci z g/100km
+description: wywalic
